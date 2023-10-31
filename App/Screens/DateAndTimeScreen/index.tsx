@@ -25,7 +25,7 @@ export default function DateAndTimeScreen({navigation}: any) {
     },
     {
       id: 3,
-      aviableSlot: '10 slots available',
+      aviableSlot: '10 slots available sdsd',
     },
   ];
   // Get the current date and the next 6 days

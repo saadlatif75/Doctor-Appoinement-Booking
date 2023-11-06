@@ -11,7 +11,7 @@ export default function RatingAndReviewScreen({navigation}: any) {
   return (
     <ScrollView style={styles.container}>
       <View style={styles.body}>
-        <Text style={styles.communicationText}>Communication:</Text>
+        <Text style={styles.communicationText}>Communication:dddddd</Text>
         <StarRating
           style={{alignSelf: 'center'}}
           starStyle={{marginHorizontal: 10}}
